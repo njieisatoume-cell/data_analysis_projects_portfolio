@@ -1,0 +1,601 @@
+product_id,product_name,category,stock_quantity,reorder_level,supplier,unit_cost,last_order_date,region
+P0001,HP Laptop,Electronics,94,18,GambiaTech,186.34,2025-05-19,Banjul
+P0002,Canon Camera,Electronics,54,11,TechZone,84.02,2025-02-05,Serekund
+P0003,Canon Camera,Electronics,25,30,PrintWorld,440.5,2025-01-19,Serekund
+P0004,Toaster,Appliances,35,10,GambiaTech,561.53,2025-06-07,Bakau
+P0005,Pen,Stationery,27,20,TechZone,83.27,2025-03-09,Banjul
+P0006,Highlighter,Stationery,77,18,TechZone,586.49,2025-03-03,Farafenni
+P0007,Bluetooth Speaker,Electronics,10,27,Fata Furnish,665.23,2025-02-27,Farafenni
+P0008,Stapler,Stationery,24,12,TechZone,532.4,2025-02-11,Bakau
+P0009,Dell Monitor,Electronics,12,22,Fata Furnish,368.19,2025-06-07,Bakau
+P0010,Bookshelf,Furniture,45,16,PrintWorld,220.91,2025-02-03,Banjul
+P0011,Sofa,Furniture,93,17,GambiaTech,375.19,2025-05-26,Bakau
+P0012,Bookshelf,Furniture,98,11,GambiaTech,659.22,2025-06-07,Bakau
+P0013,Electric Kettle,Appliances,8,16,SharpLog,702.33,2025-07-07,Bakau
+P0014,Coffee Table,Furniture,50,30,Nawec Supplies,122.87,2025-04-30,Serekund
+P0015,Sofa,Furniture,68,18,PrintWorld,471.82,2025-01-31,Farafenni
+P0016,Electric Kettle,Appliances,28,14,SharpLog,399.88,2025-05-09,Banjul
+P0017,Dell Monitor,Electronics,80,15,PrintWorld,343.51,2025-04-06,Banjul
+P0018,Washing Machine,Appliances,76,24,SharpLog,208.62,2025-01-21,Farafenni
+P0019,HP Laptop,Electronics,87,27,Fata Furnish,617.19,2025-01-20,Bakau
+P0020,iPhone,Electronics,55,15,Nawec Supplies,12.56,2025-02-02,Bakau
+P0021,Sofa,Furniture,13,30,Fata Furnish,674.92,2025-02-26,Farafenni
+P0022,Desk,Furniture,47,15,SharpLog,763.26,2025-03-01,Farafenni
+P0023,Canon Camera,Electronics,41,25,TechZone,98.38,2025-04-23,Bakau
+P0024,Pen,Stationery,7,17,SharpLog,758.09,2025-05-11,Banjul
+P0025,Microwave,Appliances,97,27,GambiaTech,111.43,2025-01-20,Brikama
+P0026,Bookshelf,Furniture,67,29,Nawec Supplies,771.85,2025-05-03,Farafenni
+P0027,Bookshelf,Furniture,51,30,Fata Furnish,356.1,2025-02-22,Farafenni
+P0028,Microwave,Appliances,31,17,TechZone,277.09,2025-06-03,Farafenni
+P0029,Sofa,Furniture,28,10,TechZone,569.19,2025-05-21,Banjul
+P0030,Office Chair,Furniture,4,20,TechZone,416.18,2025-05-31,Bakau
+P0031,Refrigerator,Appliances,69,14,PrintWorld,749.06,2025-04-30,Farafenni
+P0032,Refrigerator,Appliances,100,25,Nawec Supplies,160.42,2025-04-06,Banjul
+P0033,Electric Kettle,Appliances,54,23,Nawec Supplies,692.43,2025-02-26,Banjul
+P0034,HP Laptop,Electronics,51,20,TechZone,206.44,2025-04-12,Serekund
+P0035,Refrigerator,Appliances,54,15,Fata Furnish,375.48,2025-05-09,Banjul
+P0036,Toaster,Appliances,12,11,PrintWorld,799.43,2025-03-10,Banjul
+P0037,Dell Monitor,Electronics,21,23,Nawec Supplies,390.27,2025-06-21,Brikama
+P0038,Dell Monitor,Electronics,48,10,Nawec Supplies,219.51,2025-07-02,Brikama
+P0039,Paper Ream,Stationery,89,27,PrintWorld,577.54,2025-01-16,Serekund
+P0040,Bookshelf,Furniture,27,11,SharpLog,591.23,2025-06-11,Banjul
+P0041,Notebook,Stationery,6,28,Nawec Supplies,407.25,2025-06-20,Farafenni
+P0042,Office Chair,Furniture,65,12,GambiaTech,64.13,2025-02-15,Banjul
+P0043,Coffee Table,Furniture,15,28,GambiaTech,467.35,2025-05-30,Banjul
+P0044,Bluetooth Speaker,Electronics,84,28,SharpLog,423.0,2025-04-07,Bakau
+P0045,Bookshelf,Furniture,30,18,Nawec Supplies,113.39,2025-03-22,Bakau
+P0046,Electric Kettle,Appliances,96,12,TechZone,372.05,2025-03-09,Farafenni
+P0047,HP Laptop,Electronics,68,16,SharpLog,219.51,2025-02-14,Bakau
+P0048,Dell Monitor,Electronics,47,19,GambiaTech,356.17,2025-02-25,Farafenni
+P0049,Stapler,Stationery,83,26,TechZone,537.61,2025-06-12,Farafenni
+P0050,Notebook,Stationery,17,18,TechZone,712.87,2025-03-21,Farafenni
+P0051,Bookshelf,Furniture,36,29,GambiaTech,576.91,2025-02-03,Serekund
+P0052,Stapler,Stationery,62,18,TechZone,82.92,2025-02-02,Brikama
+P0053,Notebook,Stationery,0,20,GambiaTech,513.32,2025-03-29,Bakau
+P0054,Coffee Table,Furniture,70,23,SharpLog,17.64,2025-02-02,Banjul
+P0055,Sofa,Furniture,4,21,SharpLog,446.49,2025-03-25,Brikama
+P0056,Office Chair,Furniture,39,21,TechZone,720.15,2025-06-28,Serekund
+P0057,Office Chair,Furniture,45,27,Nawec Supplies,779.33,2025-03-22,Serekund
+P0058,Desk,Furniture,22,23,TechZone,151.69,2025-05-12,Bakau
+P0059,Refrigerator,Appliances,34,15,PrintWorld,95.4,2025-03-07,Banjul
+P0060,Refrigerator,Appliances,25,24,Fata Furnish,251.1,2025-06-20,Serekund
+P0061,Office Chair,Furniture,84,16,Nawec Supplies,269.33,2025-01-23,Banjul
+P0062,Highlighter,Stationery,82,26,Nawec Supplies,546.82,2025-06-05,Farafenni
+P0063,Notebook,Stationery,14,18,GambiaTech,468.67,2025-04-14,Bakau
+P0064,HP Laptop,Electronics,76,23,Fata Furnish,585.55,2025-04-29,Bakau
+P0065,Toaster,Appliances,65,13,Nawec Supplies,720.61,2025-02-08,Serekund
+P0066,Notebook,Stationery,90,23,TechZone,420.74,2025-07-13,Farafenni
+P0067,Bookshelf,Furniture,55,12,PrintWorld,737.41,2025-03-29,Farafenni
+P0068,Notebook,Stationery,92,19,SharpLog,254.33,2025-01-30,Brikama
+P0069,Paper Ream,Stationery,89,19,SharpLog,110.56,2025-05-02,Brikama
+P0070,Refrigerator,Appliances,78,28,Fata Furnish,330.8,2025-03-12,Banjul
+P0071,Highlighter,Stationery,26,23,SharpLog,489.26,2025-06-25,Bakau
+P0072,Washing Machine,Appliances,56,16,SharpLog,383.82,2025-05-17,Serekund
+P0073,iPhone,Electronics,65,30,SharpLog,274.8,2025-05-15,Serekund
+P0074,Pen,Stationery,25,14,TechZone,46.51,2025-07-05,Brikama
+P0075,Bluetooth Speaker,Electronics,53,30,SharpLog,163.6,2025-07-01,Brikama
+P0076,Washing Machine,Appliances,31,14,PrintWorld,553.22,2025-03-26,Banjul
+P0077,Refrigerator,Appliances,22,26,Nawec Supplies,49.67,2025-05-07,Serekund
+P0078,Bluetooth Speaker,Electronics,17,24,PrintWorld,429.59,2025-02-21,Farafenni
+P0079,Paper Ream,Stationery,78,26,Nawec Supplies,666.15,2025-05-31,Farafenni
+P0080,Refrigerator,Appliances,95,25,Nawec Supplies,214.76,2025-01-28,Serekund
+P0081,Stapler,Stationery,62,30,GambiaTech,226.93,2025-01-23,Banjul
+P0082,Pen,Stationery,34,20,Fata Furnish,715.49,2025-05-23,Banjul
+P0083,Desk,Furniture,29,22,PrintWorld,130.72,2025-02-28,Serekund
+P0084,Bluetooth Speaker,Electronics,52,20,SharpLog,378.08,2025-06-14,Banjul
+P0085,Coffee Table,Furniture,49,28,PrintWorld,25.43,2025-03-12,Farafenni
+P0086,Washing Machine,Appliances,0,21,Fata Furnish,605.25,2025-01-30,Brikama
+P0087,Coffee Table,Furniture,28,18,Nawec Supplies,393.66,2025-06-30,Brikama
+P0088,Paper Ream,Stationery,92,15,Nawec Supplies,736.44,2025-03-01,Farafenni
+P0089,Bluetooth Speaker,Electronics,75,28,PrintWorld,31.41,2025-07-02,Brikama
+P0090,Coffee Table,Furniture,23,11,Fata Furnish,309.49,2025-02-03,Serekund
+P0091,Electric Kettle,Appliances,43,22,Fata Furnish,604.09,2025-03-29,Brikama
+P0092,Notebook,Stationery,60,10,PrintWorld,436.14,2025-03-09,Bakau
+P0093,Office Chair,Furniture,99,30,TechZone,605.84,2025-04-13,Serekund
+P0094,Office Chair,Furniture,79,14,GambiaTech,109.71,2025-05-18,Banjul
+P0095,Coffee Table,Furniture,89,18,Fata Furnish,142.55,2025-06-25,Farafenni
+P0096,Dell Monitor,Electronics,39,13,SharpLog,30.29,2025-03-26,Bakau
+P0097,Washing Machine,Appliances,91,16,TechZone,477.76,2025-02-15,Serekund
+P0098,iPhone,Electronics,87,29,TechZone,639.02,2025-03-27,Farafenni
+P0099,iPhone,Electronics,68,23,PrintWorld,302.75,2025-03-24,Farafenni
+P0100,Notebook,Stationery,53,25,TechZone,352.48,2025-02-24,Bakau
+P0101,Refrigerator,Appliances,55,15,PrintWorld,422.18,2025-05-25,Bakau
+P0102,Washing Machine,Appliances,55,28,Fata Furnish,264.62,2025-03-07,Serekund
+P0103,iPhone,Electronics,57,17,Nawec Supplies,460.18,2025-05-31,Brikama
+P0104,Notebook,Stationery,63,20,GambiaTech,395.16,2025-05-27,Bakau
+P0105,Highlighter,Stationery,35,29,PrintWorld,705.28,2025-05-20,Farafenni
+P0106,Canon Camera,Electronics,24,12,GambiaTech,578.86,2025-01-28,Brikama
+P0107,Coffee Table,Furniture,82,25,Nawec Supplies,636.42,2025-05-13,Banjul
+P0108,Pen,Stationery,51,17,Fata Furnish,534.53,2025-05-18,Bakau
+P0109,Toaster,Appliances,67,21,Nawec Supplies,797.34,2025-02-17,Farafenni
+P0110,Highlighter,Stationery,89,24,Fata Furnish,252.23,2025-04-28,Serekund
+P0111,Dell Monitor,Electronics,40,13,PrintWorld,433.33,2025-06-05,Serekund
+P0112,Desk,Furniture,94,25,Fata Furnish,582.42,2025-03-03,Farafenni
+P0113,Notebook,Stationery,24,19,GambiaTech,295.1,2025-02-15,Bakau
+P0114,Canon Camera,Electronics,16,18,TechZone,779.69,2025-04-14,Farafenni
+P0115,Pen,Stationery,81,25,TechZone,699.45,2025-03-29,Farafenni
+P0116,Paper Ream,Stationery,61,24,Fata Furnish,155.65,2025-03-08,Banjul
+P0117,Paper Ream,Stationery,14,12,Nawec Supplies,398.48,2025-07-13,Farafenni
+P0118,Dell Monitor,Electronics,19,28,Fata Furnish,77.29,2025-05-19,Serekund
+P0119,Canon Camera,Electronics,97,23,SharpLog,480.94,2025-05-28,Farafenni
+P0120,Sofa,Furniture,48,24,Nawec Supplies,244.91,2025-05-03,Farafenni
+P0121,Electric Kettle,Appliances,72,29,TechZone,491.61,2025-02-26,Banjul
+P0122,Desk,Furniture,33,12,GambiaTech,199.49,2025-05-27,Farafenni
+P0123,Dell Monitor,Electronics,0,23,Nawec Supplies,554.6,2025-03-18,Brikama
+P0124,Notebook,Stationery,29,19,PrintWorld,233.35,2025-06-27,Brikama
+P0125,Dell Monitor,Electronics,33,30,SharpLog,532.33,2025-06-13,Serekund
+P0126,Microwave,Appliances,69,17,PrintWorld,127.7,2025-06-14,Bakau
+P0127,Office Chair,Furniture,7,15,Fata Furnish,480.08,2025-01-25,Farafenni
+P0128,Paper Ream,Stationery,15,24,PrintWorld,250.23,2025-02-28,Brikama
+P0129,Stapler,Stationery,69,25,Nawec Supplies,73.55,2025-06-23,Banjul
+P0130,Electric Kettle,Appliances,77,18,TechZone,82.15,2025-01-21,Farafenni
+P0131,iPhone,Electronics,73,11,GambiaTech,381.7,2025-06-20,Brikama
+P0132,Pen,Stationery,74,23,PrintWorld,653.25,2025-03-17,Banjul
+P0133,Electric Kettle,Appliances,52,20,Fata Furnish,539.41,2025-04-02,Serekund
+P0134,Paper Ream,Stationery,88,25,Fata Furnish,533.44,2025-03-07,Brikama
+P0135,Bluetooth Speaker,Electronics,11,20,Fata Furnish,265.39,2025-01-27,Brikama
+P0136,Canon Camera,Electronics,59,23,TechZone,158.19,2025-02-24,Bakau
+P0137,Washing Machine,Appliances,97,11,GambiaTech,220.97,2025-07-11,Serekund
+P0138,Paper Ream,Stationery,89,25,TechZone,32.81,2025-05-05,Farafenni
+P0139,Desk,Furniture,39,27,TechZone,446.28,2025-07-04,Banjul
+P0140,Office Chair,Furniture,59,13,PrintWorld,667.39,2025-06-03,Brikama
+P0141,Stapler,Stationery,90,18,Nawec Supplies,669.43,2025-03-17,Brikama
+P0142,Coffee Table,Furniture,70,14,Nawec Supplies,160.58,2025-02-25,Farafenni
+P0143,Office Chair,Furniture,35,23,Fata Furnish,748.06,2025-05-22,Farafenni
+P0144,Notebook,Stationery,36,19,SharpLog,468.14,2025-04-21,Brikama
+P0145,Coffee Table,Furniture,68,25,Fata Furnish,272.63,2025-04-01,Farafenni
+P0146,Washing Machine,Appliances,41,16,PrintWorld,198.66,2025-07-05,Brikama
+P0147,Coffee Table,Furniture,5,20,PrintWorld,383.65,2025-07-11,Brikama
+P0148,Refrigerator,Appliances,63,11,GambiaTech,406.81,2025-05-19,Farafenni
+P0149,Notebook,Stationery,56,13,SharpLog,729.25,2025-04-14,Banjul
+P0150,Coffee Table,Furniture,83,14,TechZone,380.9,2025-02-11,Bakau
+P0151,Stapler,Stationery,88,22,PrintWorld,73.45,2025-03-07,Bakau
+P0152,Electric Kettle,Appliances,80,25,SharpLog,38.36,2025-02-11,Banjul
+P0153,Bookshelf,Furniture,29,12,Nawec Supplies,782.89,2025-03-03,Banjul
+P0154,Refrigerator,Appliances,88,19,TechZone,46.33,2025-06-08,Banjul
+P0155,Highlighter,Stationery,47,23,GambiaTech,202.92,2025-05-04,Brikama
+P0156,Desk,Furniture,22,12,SharpLog,697.96,2025-04-29,Farafenni
+P0157,Coffee Table,Furniture,74,14,GambiaTech,374.31,2025-03-07,Bakau
+P0158,Electric Kettle,Appliances,85,10,Nawec Supplies,721.96,2025-06-09,Farafenni
+P0159,Office Chair,Furniture,56,21,SharpLog,246.33,2025-05-08,Brikama
+P0160,Paper Ream,Stationery,38,16,Nawec Supplies,684.14,2025-04-08,Banjul
+P0161,Coffee Table,Furniture,73,21,SharpLog,243.74,2025-07-08,Bakau
+P0162,Bluetooth Speaker,Electronics,35,10,SharpLog,693.4,2025-05-08,Banjul
+P0163,Electric Kettle,Appliances,99,17,SharpLog,643.53,2025-04-02,Serekund
+P0164,Sofa,Furniture,32,14,PrintWorld,86.76,2025-03-26,Banjul
+P0165,Paper Ream,Stationery,4,28,Fata Furnish,588.56,2025-02-26,Banjul
+P0166,Highlighter,Stationery,95,23,GambiaTech,168.63,2025-02-10,Farafenni
+P0167,Stapler,Stationery,64,18,GambiaTech,213.01,2025-04-23,Brikama
+P0168,Highlighter,Stationery,14,24,TechZone,121.2,2025-04-20,Serekund
+P0169,Toaster,Appliances,46,12,Nawec Supplies,21.0,2025-02-01,Farafenni
+P0170,Bluetooth Speaker,Electronics,47,18,SharpLog,311.01,2025-06-10,Bakau
+P0171,Dell Monitor,Electronics,60,10,SharpLog,708.55,2025-01-24,Farafenni
+P0172,Stapler,Stationery,28,30,TechZone,511.97,2025-07-01,Brikama
+P0173,Paper Ream,Stationery,14,14,TechZone,757.55,2025-02-05,Bakau
+P0174,Microwave,Appliances,12,17,SharpLog,117.17,2025-02-13,Brikama
+P0175,Stapler,Stationery,53,28,PrintWorld,584.01,2025-05-16,Brikama
+P0176,Bluetooth Speaker,Electronics,78,23,Fata Furnish,35.85,2025-02-15,Bakau
+P0177,Coffee Table,Furniture,56,17,Fata Furnish,88.49,2025-06-17,Bakau
+P0178,Notebook,Stationery,50,18,GambiaTech,774.88,2025-05-27,Brikama
+P0179,Dell Monitor,Electronics,82,30,SharpLog,777.16,2025-04-06,Banjul
+P0180,Pen,Stationery,16,28,GambiaTech,64.2,2025-05-10,Farafenni
+P0181,Sofa,Furniture,27,17,Fata Furnish,621.75,2025-01-27,Farafenni
+P0182,iPhone,Electronics,18,14,SharpLog,208.02,2025-03-30,Serekund
+P0183,HP Laptop,Electronics,16,10,Fata Furnish,634.09,2025-03-30,Serekund
+P0184,Notebook,Stationery,22,18,TechZone,110.14,2025-05-10,Brikama
+P0185,HP Laptop,Electronics,60,24,Fata Furnish,415.46,2025-04-15,Banjul
+P0186,Toaster,Appliances,28,29,TechZone,584.52,2025-04-27,Farafenni
+P0187,Paper Ream,Stationery,82,10,TechZone,798.88,2025-03-04,Brikama
+P0188,Microwave,Appliances,62,24,TechZone,720.42,2025-05-02,Bakau
+P0189,Office Chair,Furniture,16,18,SharpLog,510.13,2025-07-01,Farafenni
+P0190,Paper Ream,Stationery,76,26,Fata Furnish,368.44,2025-01-17,Farafenni
+P0191,Microwave,Appliances,89,13,PrintWorld,524.22,2025-05-27,Farafenni
+P0192,Coffee Table,Furniture,57,17,Nawec Supplies,277.76,2025-06-03,Brikama
+P0193,Washing Machine,Appliances,93,13,Fata Furnish,347.14,2025-02-06,Bakau
+P0194,Pen,Stationery,87,25,TechZone,82.07,2025-05-27,Banjul
+P0195,Bluetooth Speaker,Electronics,12,21,GambiaTech,449.53,2025-07-05,Farafenni
+P0196,Notebook,Stationery,52,21,PrintWorld,753.49,2025-04-29,Brikama
+P0197,iPhone,Electronics,76,19,Fata Furnish,91.84,2025-06-09,Farafenni
+P0198,Desk,Furniture,84,25,GambiaTech,679.35,2025-03-07,Bakau
+P0199,Notebook,Stationery,97,18,SharpLog,188.67,2025-06-13,Brikama
+P0200,Canon Camera,Electronics,84,18,TechZone,152.53,2025-05-19,Bakau
+P0201,Highlighter,Stationery,0,15,GambiaTech,457.39,2025-03-22,Brikama
+P0202,Dell Monitor,Electronics,94,30,TechZone,82.49,2025-02-05,Farafenni
+P0203,Coffee Table,Furniture,53,24,Fata Furnish,134.35,2025-03-12,Bakau
+P0204,Stapler,Stationery,76,12,TechZone,132.91,2025-04-09,Farafenni
+P0205,HP Laptop,Electronics,34,24,PrintWorld,344.97,2025-02-14,Farafenni
+P0206,Washing Machine,Appliances,34,16,SharpLog,99.92,2025-04-13,Brikama
+P0207,iPhone,Electronics,86,28,Nawec Supplies,426.28,2025-01-15,Bakau
+P0208,Dell Monitor,Electronics,50,29,TechZone,16.07,2025-06-04,Bakau
+P0209,Desk,Furniture,97,18,Fata Furnish,269.22,2025-07-04,Banjul
+P0210,Washing Machine,Appliances,22,14,Nawec Supplies,430.74,2025-06-03,Serekund
+P0211,Notebook,Stationery,50,11,Nawec Supplies,24.81,2025-03-07,Banjul
+P0212,Stapler,Stationery,54,28,Nawec Supplies,570.5,2025-04-22,Brikama
+P0213,Notebook,Stationery,51,10,Fata Furnish,145.78,2025-06-11,Farafenni
+P0214,Electric Kettle,Appliances,11,23,TechZone,202.22,2025-02-18,Farafenni
+P0215,Toaster,Appliances,10,22,Fata Furnish,599.19,2025-04-23,Serekund
+P0216,Pen,Stationery,9,26,PrintWorld,100.08,2025-07-11,Farafenni
+P0217,Bookshelf,Furniture,44,30,GambiaTech,196.65,2025-02-04,Serekund
+P0218,Pen,Stationery,22,29,GambiaTech,610.57,2025-07-03,Banjul
+P0219,Coffee Table,Furniture,59,28,SharpLog,364.64,2025-05-16,Farafenni
+P0220,Highlighter,Stationery,19,24,TechZone,380.45,2025-03-13,Bakau
+P0221,Stapler,Stationery,7,21,SharpLog,68.61,2025-06-27,Brikama
+P0222,Microwave,Appliances,7,21,Fata Furnish,70.62,2025-05-19,Banjul
+P0223,Washing Machine,Appliances,74,27,PrintWorld,717.74,2025-04-23,Brikama
+P0224,Bookshelf,Furniture,77,25,SharpLog,129.18,2025-05-13,Banjul
+P0225,Microwave,Appliances,43,12,SharpLog,520.44,2025-02-22,Banjul
+P0226,Coffee Table,Furniture,56,26,SharpLog,491.75,2025-02-13,Bakau
+P0227,Highlighter,Stationery,49,23,Fata Furnish,546.33,2025-03-28,Banjul
+P0228,Notebook,Stationery,42,13,SharpLog,545.92,2025-06-12,Bakau
+P0229,Stapler,Stationery,19,20,TechZone,470.36,2025-02-15,Serekund
+P0230,Highlighter,Stationery,83,22,GambiaTech,480.08,2025-04-29,Banjul
+P0231,Stapler,Stationery,48,30,Fata Furnish,652.42,2025-06-15,Farafenni
+P0232,Bluetooth Speaker,Electronics,65,21,TechZone,296.45,2025-07-13,Serekund
+P0233,Bookshelf,Furniture,98,25,GambiaTech,188.97,2025-04-27,Serekund
+P0234,Office Chair,Furniture,37,13,SharpLog,618.99,2025-07-12,Farafenni
+P0235,iPhone,Electronics,98,29,GambiaTech,481.82,2025-01-15,Serekund
+P0236,Desk,Furniture,88,29,GambiaTech,579.73,2025-05-11,Banjul
+P0237,Electric Kettle,Appliances,86,17,Nawec Supplies,492.37,2025-03-18,Brikama
+P0238,Sofa,Furniture,30,19,Nawec Supplies,724.14,2025-04-19,Serekund
+P0239,Stapler,Stationery,56,24,Fata Furnish,624.72,2025-01-18,Farafenni
+P0240,Refrigerator,Appliances,25,29,GambiaTech,699.67,2025-02-05,Banjul
+P0241,Electric Kettle,Appliances,70,13,PrintWorld,678.25,2025-03-26,Banjul
+P0242,Notebook,Stationery,97,15,Fata Furnish,364.96,2025-07-04,Farafenni
+P0243,Coffee Table,Furniture,11,17,Nawec Supplies,708.86,2025-06-25,Banjul
+P0244,Microwave,Appliances,50,26,Fata Furnish,196.26,2025-06-20,Banjul
+P0245,Pen,Stationery,3,20,TechZone,672.95,2025-03-15,Bakau
+P0246,Desk,Furniture,4,19,Nawec Supplies,559.9,2025-03-02,Serekund
+P0247,Washing Machine,Appliances,78,10,TechZone,25.01,2025-01-26,Serekund
+P0248,Sofa,Furniture,93,29,SharpLog,344.37,2025-03-02,Bakau
+P0249,Bookshelf,Furniture,15,11,GambiaTech,341.66,2025-07-04,Farafenni
+P0250,Microwave,Appliances,14,25,SharpLog,433.48,2025-05-05,Farafenni
+P0251,Desk,Furniture,37,23,TechZone,495.7,2025-01-30,Serekund
+P0252,Refrigerator,Appliances,85,12,SharpLog,779.98,2025-01-31,Banjul
+P0253,Bluetooth Speaker,Electronics,60,11,PrintWorld,315.64,2025-06-06,Bakau
+P0254,Notebook,Stationery,45,12,Fata Furnish,200.49,2025-04-19,Banjul
+P0255,Pen,Stationery,5,21,SharpLog,277.45,2025-06-22,Serekund
+P0256,Washing Machine,Appliances,80,15,GambiaTech,59.85,2025-01-28,Brikama
+P0257,iPhone,Electronics,25,11,GambiaTech,709.77,2025-06-11,Bakau
+P0258,Stapler,Stationery,50,27,Nawec Supplies,210.12,2025-04-28,Serekund
+P0259,Highlighter,Stationery,99,11,PrintWorld,272.22,2025-06-12,Banjul
+P0260,Paper Ream,Stationery,51,24,Nawec Supplies,277.84,2025-02-08,Serekund
+P0261,Washing Machine,Appliances,47,26,Fata Furnish,642.91,2025-02-08,Brikama
+P0262,Bluetooth Speaker,Electronics,77,15,SharpLog,242.08,2025-05-23,Banjul
+P0263,iPhone,Electronics,84,19,Fata Furnish,362.27,2025-04-17,Brikama
+P0264,Coffee Table,Furniture,44,24,TechZone,584.18,2025-05-01,Bakau
+P0265,Electric Kettle,Appliances,81,11,TechZone,540.24,2025-02-16,Brikama
+P0266,Stapler,Stationery,95,15,TechZone,122.8,2025-03-07,Farafenni
+P0267,Microwave,Appliances,16,12,GambiaTech,625.03,2025-04-27,Bakau
+P0268,Paper Ream,Stationery,72,11,SharpLog,131.22,2025-07-03,Brikama
+P0269,Highlighter,Stationery,56,12,SharpLog,118.78,2025-05-12,Bakau
+P0270,Electric Kettle,Appliances,83,18,GambiaTech,768.81,2025-04-07,Banjul
+P0271,Coffee Table,Furniture,66,22,SharpLog,103.03,2025-02-25,Bakau
+P0272,Refrigerator,Appliances,78,19,PrintWorld,734.02,2025-04-29,Brikama
+P0273,Office Chair,Furniture,17,12,Nawec Supplies,146.4,2025-06-10,Brikama
+P0274,iPhone,Electronics,85,21,PrintWorld,61.3,2025-06-05,Farafenni
+P0275,Highlighter,Stationery,20,30,GambiaTech,637.02,2025-05-28,Farafenni
+P0276,Office Chair,Furniture,25,14,GambiaTech,634.39,2025-02-23,Banjul
+P0277,Stapler,Stationery,73,21,Nawec Supplies,644.89,2025-06-02,Farafenni
+P0278,Sofa,Furniture,11,12,Fata Furnish,324.55,2025-03-16,Brikama
+P0279,Washing Machine,Appliances,73,12,GambiaTech,778.18,2025-04-02,Banjul
+P0280,Washing Machine,Appliances,87,26,Fata Furnish,111.38,2025-05-25,Farafenni
+P0281,Desk,Furniture,55,26,TechZone,666.8,2025-05-21,Farafenni
+P0282,Bookshelf,Furniture,21,15,Fata Furnish,748.44,2025-03-28,Serekund
+P0283,Stapler,Stationery,36,12,Fata Furnish,165.08,2025-04-10,Farafenni
+P0284,Pen,Stationery,80,19,SharpLog,431.45,2025-07-08,Farafenni
+P0285,Sofa,Furniture,74,14,GambiaTech,530.4,2025-04-25,Farafenni
+P0286,Stapler,Stationery,5,10,TechZone,45.91,2025-04-12,Farafenni
+P0287,Pen,Stationery,98,28,Nawec Supplies,498.31,2025-02-07,Banjul
+P0288,Toaster,Appliances,37,30,Fata Furnish,391.53,2025-03-04,Brikama
+P0289,Paper Ream,Stationery,9,11,GambiaTech,357.29,2025-02-27,Brikama
+P0290,Refrigerator,Appliances,43,29,GambiaTech,256.94,2025-01-27,Bakau
+P0291,Paper Ream,Stationery,16,21,SharpLog,453.7,2025-03-21,Bakau
+P0292,Coffee Table,Furniture,15,18,Nawec Supplies,205.86,2025-01-19,Banjul
+P0293,iPhone,Electronics,49,29,Nawec Supplies,206.13,2025-05-09,Serekund
+P0294,Stapler,Stationery,92,20,GambiaTech,612.87,2025-05-02,Brikama
+P0295,Washing Machine,Appliances,39,25,TechZone,81.14,2025-02-28,Brikama
+P0296,Refrigerator,Appliances,27,28,Fata Furnish,48.44,2025-05-09,Bakau
+P0297,Toaster,Appliances,83,25,Fata Furnish,433.99,2025-02-26,Banjul
+P0298,Refrigerator,Appliances,33,21,Nawec Supplies,299.09,2025-01-16,Brikama
+P0299,Canon Camera,Electronics,71,16,Fata Furnish,447.05,2025-01-28,Banjul
+P0300,Toaster,Appliances,57,27,Fata Furnish,662.0,2025-06-01,Farafenni
+P0301,Dell Monitor,Electronics,12,22,Fata Furnish,637.97,2025-05-17,Bakau
+P0302,Pen,Stationery,25,29,SharpLog,327.1,2025-01-26,Banjul
+P0303,HP Laptop,Electronics,17,20,Nawec Supplies,420.27,2025-02-28,Serekund
+P0304,Bookshelf,Furniture,78,20,GambiaTech,320.43,2025-01-28,Farafenni
+P0305,Stapler,Stationery,43,26,SharpLog,430.55,2025-07-09,Farafenni
+P0306,Paper Ream,Stationery,2,21,Fata Furnish,542.31,2025-01-21,Brikama
+P0307,Notebook,Stationery,76,25,Fata Furnish,773.99,2025-06-30,Farafenni
+P0308,Office Chair,Furniture,74,25,GambiaTech,424.14,2025-03-20,Farafenni
+P0309,Refrigerator,Appliances,87,17,TechZone,462.33,2025-01-28,Banjul
+P0310,Office Chair,Furniture,56,20,Nawec Supplies,129.63,2025-04-24,Serekund
+P0311,Toaster,Appliances,99,29,Nawec Supplies,699.53,2025-03-02,Banjul
+P0312,Sofa,Furniture,26,27,Fata Furnish,798.52,2025-03-10,Brikama
+P0313,Electric Kettle,Appliances,22,24,SharpLog,280.44,2025-05-24,Bakau
+P0314,Stapler,Stationery,61,16,GambiaTech,230.42,2025-04-19,Bakau
+P0315,Bookshelf,Furniture,98,19,PrintWorld,173.75,2025-02-25,Brikama
+P0316,Paper Ream,Stationery,44,27,PrintWorld,226.03,2025-04-29,Banjul
+P0317,Washing Machine,Appliances,44,14,Fata Furnish,43.23,2025-02-09,Banjul
+P0318,Paper Ream,Stationery,83,18,PrintWorld,388.47,2025-06-04,Serekund
+P0319,Stapler,Stationery,89,18,GambiaTech,96.29,2025-07-05,Farafenni
+P0320,Desk,Furniture,6,26,GambiaTech,513.98,2025-05-05,Banjul
+P0321,Bluetooth Speaker,Electronics,42,25,TechZone,548.14,2025-05-06,Serekund
+P0322,Canon Camera,Electronics,20,23,PrintWorld,748.68,2025-04-16,Brikama
+P0323,Refrigerator,Appliances,96,19,Fata Furnish,235.48,2025-03-03,Banjul
+P0324,Canon Camera,Electronics,29,27,PrintWorld,581.26,2025-06-16,Banjul
+P0325,Coffee Table,Furniture,22,11,Nawec Supplies,632.49,2025-04-16,Serekund
+P0326,Notebook,Stationery,1,19,SharpLog,486.2,2025-06-20,Bakau
+P0327,Paper Ream,Stationery,82,27,SharpLog,400.19,2025-04-04,Serekund
+P0328,Electric Kettle,Appliances,24,13,Fata Furnish,138.37,2025-02-20,Brikama
+P0329,Pen,Stationery,1,20,Fata Furnish,458.55,2025-02-02,Serekund
+P0330,Sofa,Furniture,81,22,Nawec Supplies,417.07,2025-02-02,Banjul
+P0331,Microwave,Appliances,23,14,Nawec Supplies,265.65,2025-05-22,Serekund
+P0332,iPhone,Electronics,49,17,Nawec Supplies,605.47,2025-04-08,Bakau
+P0333,Stapler,Stationery,92,28,TechZone,216.63,2025-03-24,Bakau
+P0334,Office Chair,Furniture,85,13,Nawec Supplies,252.38,2025-04-07,Brikama
+P0335,Notebook,Stationery,81,19,Fata Furnish,495.55,2025-04-04,Serekund
+P0336,Coffee Table,Furniture,19,24,PrintWorld,791.18,2025-04-15,Bakau
+P0337,Toaster,Appliances,60,27,PrintWorld,662.23,2025-07-01,Serekund
+P0338,Canon Camera,Electronics,57,26,PrintWorld,295.81,2025-06-05,Farafenni
+P0339,HP Laptop,Electronics,70,26,GambiaTech,462.43,2025-01-25,Serekund
+P0340,Bookshelf,Furniture,66,24,TechZone,547.43,2025-05-25,Farafenni
+P0341,Microwave,Appliances,65,24,TechZone,368.21,2025-05-21,Farafenni
+P0342,Washing Machine,Appliances,72,11,SharpLog,375.28,2025-05-20,Bakau
+P0343,Bluetooth Speaker,Electronics,32,10,PrintWorld,182.14,2025-02-03,Banjul
+P0344,Bluetooth Speaker,Electronics,44,12,SharpLog,795.36,2025-01-26,Banjul
+P0345,Microwave,Appliances,36,23,GambiaTech,617.49,2025-04-03,Brikama
+P0346,Paper Ream,Stationery,57,22,Nawec Supplies,73.4,2025-06-05,Farafenni
+P0347,Bookshelf,Furniture,15,15,SharpLog,320.52,2025-03-21,Serekund
+P0348,Office Chair,Furniture,96,10,Fata Furnish,375.77,2025-06-19,Farafenni
+P0349,Toaster,Appliances,48,17,GambiaTech,373.89,2025-07-01,Serekund
+P0350,Pen,Stationery,92,13,TechZone,649.49,2025-02-05,Brikama
+P0351,Dell Monitor,Electronics,26,12,TechZone,479.22,2025-03-04,Brikama
+P0352,Dell Monitor,Electronics,94,11,Nawec Supplies,356.78,2025-02-21,Farafenni
+P0353,Office Chair,Furniture,17,26,Fata Furnish,194.99,2025-02-20,Farafenni
+P0354,Stapler,Stationery,76,20,GambiaTech,248.39,2025-04-29,Serekund
+P0355,Coffee Table,Furniture,38,18,TechZone,449.81,2025-04-12,Farafenni
+P0356,Coffee Table,Furniture,71,25,TechZone,778.11,2025-02-11,Brikama
+P0357,Paper Ream,Stationery,52,14,Fata Furnish,307.4,2025-04-06,Farafenni
+P0358,Refrigerator,Appliances,28,19,PrintWorld,124.04,2025-02-19,Brikama
+P0359,Canon Camera,Electronics,52,23,SharpLog,428.69,2025-03-10,Brikama
+P0360,Bookshelf,Furniture,26,20,PrintWorld,72.47,2025-04-14,Brikama
+P0361,Notebook,Stationery,68,16,TechZone,222.08,2025-03-04,Farafenni
+P0362,HP Laptop,Electronics,24,28,PrintWorld,540.45,2025-07-03,Serekund
+P0363,Refrigerator,Appliances,42,19,TechZone,177.33,2025-07-13,Serekund
+P0364,Bluetooth Speaker,Electronics,31,29,PrintWorld,171.57,2025-01-29,Serekund
+P0365,Highlighter,Stationery,48,24,SharpLog,522.49,2025-04-11,Bakau
+P0366,Highlighter,Stationery,65,25,Nawec Supplies,87.9,2025-06-20,Brikama
+P0367,Pen,Stationery,47,20,Nawec Supplies,46.12,2025-07-01,Serekund
+P0368,Office Chair,Furniture,33,27,SharpLog,467.52,2025-06-30,Brikama
+P0369,Pen,Stationery,25,20,GambiaTech,310.07,2025-05-01,Serekund
+P0370,Toaster,Appliances,83,20,Fata Furnish,613.05,2025-02-03,Brikama
+P0371,Washing Machine,Appliances,21,21,GambiaTech,120.57,2025-01-24,Farafenni
+P0372,Refrigerator,Appliances,69,30,TechZone,423.92,2025-05-21,Banjul
+P0373,HP Laptop,Electronics,52,14,PrintWorld,192.83,2025-04-29,Serekund
+P0374,Dell Monitor,Electronics,64,24,Fata Furnish,57.76,2025-06-26,Farafenni
+P0375,Washing Machine,Appliances,2,10,SharpLog,445.8,2025-01-17,Banjul
+P0376,Canon Camera,Electronics,92,18,SharpLog,782.21,2025-02-02,Banjul
+P0377,Refrigerator,Appliances,13,13,SharpLog,127.63,2025-07-13,Serekund
+P0378,Highlighter,Stationery,34,22,TechZone,304.71,2025-06-10,Brikama
+P0379,Toaster,Appliances,31,17,Fata Furnish,550.39,2025-06-28,Banjul
+P0380,HP Laptop,Electronics,51,22,Nawec Supplies,446.63,2025-03-01,Banjul
+P0381,Dell Monitor,Electronics,10,25,Nawec Supplies,519.48,2025-02-16,Bakau
+P0382,Canon Camera,Electronics,5,17,GambiaTech,722.01,2025-04-03,Farafenni
+P0383,Electric Kettle,Appliances,5,12,PrintWorld,741.21,2025-04-19,Farafenni
+P0384,Dell Monitor,Electronics,40,10,GambiaTech,473.76,2025-04-18,Brikama
+P0385,iPhone,Electronics,20,28,GambiaTech,457.69,2025-02-25,Brikama
+P0386,Paper Ream,Stationery,96,14,PrintWorld,582.09,2025-07-01,Farafenni
+P0387,Notebook,Stationery,12,23,GambiaTech,672.55,2025-04-02,Bakau
+P0388,Electric Kettle,Appliances,3,30,Fata Furnish,629.0,2025-07-09,Brikama
+P0389,Refrigerator,Appliances,45,27,Nawec Supplies,351.16,2025-01-26,Farafenni
+P0390,Microwave,Appliances,98,29,Fata Furnish,640.46,2025-02-15,Banjul
+P0391,iPhone,Electronics,19,22,PrintWorld,629.27,2025-03-29,Serekund
+P0392,Electric Kettle,Appliances,46,13,TechZone,14.1,2025-01-15,Bakau
+P0393,Electric Kettle,Appliances,97,18,TechZone,114.68,2025-03-31,Serekund
+P0394,Washing Machine,Appliances,71,27,SharpLog,332.35,2025-03-07,Banjul
+P0395,iPhone,Electronics,70,12,SharpLog,482.45,2025-07-13,Bakau
+P0396,Microwave,Appliances,37,23,Nawec Supplies,625.54,2025-06-16,Farafenni
+P0397,Sofa,Furniture,66,15,PrintWorld,310.78,2025-06-16,Serekund
+P0398,Highlighter,Stationery,34,25,GambiaTech,59.98,2025-04-13,Brikama
+P0399,Paper Ream,Stationery,38,25,TechZone,295.29,2025-03-11,Serekund
+P0400,Toaster,Appliances,78,16,Nawec Supplies,94.51,2025-04-07,Bakau
+P0401,Bluetooth Speaker,Electronics,42,29,Nawec Supplies,645.22,2025-05-30,Bakau
+P0402,Electric Kettle,Appliances,55,30,SharpLog,117.54,2025-06-05,Bakau
+P0403,Coffee Table,Furniture,40,15,Nawec Supplies,775.29,2025-06-16,Bakau
+P0404,Toaster,Appliances,100,17,Fata Furnish,307.08,2025-05-02,Brikama
+P0405,Notebook,Stationery,72,16,SharpLog,797.84,2025-05-23,Serekund
+P0406,Bluetooth Speaker,Electronics,90,16,Nawec Supplies,640.17,2025-06-03,Banjul
+P0407,Washing Machine,Appliances,17,30,Fata Furnish,201.2,2025-04-19,Serekund
+P0408,Washing Machine,Appliances,9,24,SharpLog,388.6,2025-02-14,Brikama
+P0409,Toaster,Appliances,4,21,PrintWorld,717.45,2025-02-20,Farafenni
+P0410,HP Laptop,Electronics,98,17,PrintWorld,535.11,2025-03-13,Serekund
+P0411,Canon Camera,Electronics,82,30,Nawec Supplies,773.78,2025-02-26,Bakau
+P0412,Microwave,Appliances,1,13,Fata Furnish,185.38,2025-01-26,Farafenni
+P0413,Coffee Table,Furniture,47,22,Nawec Supplies,620.15,2025-05-07,Farafenni
+P0414,Bookshelf,Furniture,3,25,TechZone,243.39,2025-06-06,Banjul
+P0415,Dell Monitor,Electronics,44,19,Fata Furnish,369.71,2025-04-30,Serekund
+P0416,Electric Kettle,Appliances,60,13,Nawec Supplies,580.38,2025-01-26,Brikama
+P0417,Notebook,Stationery,38,11,PrintWorld,100.92,2025-06-09,Bakau
+P0418,Dell Monitor,Electronics,94,17,SharpLog,147.82,2025-03-16,Serekund
+P0419,Stapler,Stationery,54,24,GambiaTech,640.23,2025-01-26,Serekund
+P0420,Coffee Table,Furniture,50,10,PrintWorld,495.14,2025-01-24,Serekund
+P0421,Toaster,Appliances,54,22,TechZone,566.74,2025-05-08,Serekund
+P0422,Notebook,Stationery,73,13,SharpLog,157.7,2025-04-17,Bakau
+P0423,Coffee Table,Furniture,14,18,PrintWorld,691.48,2025-04-22,Farafenni
+P0424,Stapler,Stationery,49,29,Nawec Supplies,473.73,2025-07-12,Bakau
+P0425,Paper Ream,Stationery,79,15,PrintWorld,567.73,2025-06-29,Bakau
+P0426,Dell Monitor,Electronics,40,13,GambiaTech,251.25,2025-04-28,Serekund
+P0427,Pen,Stationery,65,22,Nawec Supplies,481.18,2025-02-14,Farafenni
+P0428,Washing Machine,Appliances,23,25,PrintWorld,434.53,2025-01-26,Serekund
+P0429,Coffee Table,Furniture,36,14,GambiaTech,258.52,2025-04-23,Brikama
+P0430,iPhone,Electronics,1,25,GambiaTech,164.15,2025-01-30,Brikama
+P0431,Washing Machine,Appliances,87,25,Nawec Supplies,571.01,2025-06-29,Brikama
+P0432,Refrigerator,Appliances,10,28,TechZone,638.75,2025-02-20,Serekund
+P0433,Notebook,Stationery,35,17,SharpLog,238.05,2025-01-28,Brikama
+P0434,Toaster,Appliances,65,13,SharpLog,100.22,2025-05-10,Farafenni
+P0435,Stapler,Stationery,96,11,PrintWorld,358.68,2025-01-28,Serekund
+P0436,Microwave,Appliances,94,30,GambiaTech,245.19,2025-05-26,Banjul
+P0437,Electric Kettle,Appliances,44,12,Nawec Supplies,693.58,2025-07-01,Banjul
+P0438,Desk,Furniture,94,28,PrintWorld,287.0,2025-03-01,Farafenni
+P0439,Refrigerator,Appliances,78,14,GambiaTech,652.69,2025-04-03,Banjul
+P0440,Stapler,Stationery,35,29,SharpLog,143.02,2025-02-07,Bakau
+P0441,Stapler,Stationery,34,26,PrintWorld,653.99,2025-07-06,Serekund
+P0442,Microwave,Appliances,35,30,GambiaTech,564.13,2025-05-05,Serekund
+P0443,Desk,Furniture,91,20,GambiaTech,611.56,2025-03-03,Brikama
+P0444,Refrigerator,Appliances,73,30,Fata Furnish,505.97,2025-05-07,Brikama
+P0445,Microwave,Appliances,81,12,Nawec Supplies,417.33,2025-05-10,Bakau
+P0446,Paper Ream,Stationery,62,20,SharpLog,11.95,2025-01-22,Banjul
+P0447,Electric Kettle,Appliances,8,27,Nawec Supplies,182.09,2025-05-15,Brikama
+P0448,Coffee Table,Furniture,34,20,Fata Furnish,276.83,2025-01-30,Farafenni
+P0449,Sofa,Furniture,62,20,PrintWorld,612.18,2025-04-06,Banjul
+P0450,Bluetooth Speaker,Electronics,2,13,GambiaTech,358.62,2025-05-22,Banjul
+P0451,Refrigerator,Appliances,88,14,PrintWorld,248.47,2025-05-08,Bakau
+P0452,iPhone,Electronics,32,12,Fata Furnish,534.96,2025-05-04,Serekund
+P0453,Bluetooth Speaker,Electronics,80,19,PrintWorld,562.56,2025-04-26,Serekund
+P0454,Microwave,Appliances,90,13,TechZone,178.6,2025-03-17,Banjul
+P0455,Sofa,Furniture,28,26,PrintWorld,361.6,2025-03-06,Banjul
+P0456,Notebook,Stationery,54,14,Nawec Supplies,65.95,2025-02-23,Brikama
+P0457,HP Laptop,Electronics,13,20,Fata Furnish,705.98,2025-05-25,Serekund
+P0458,Refrigerator,Appliances,82,14,TechZone,429.1,2025-06-03,Banjul
+P0459,Coffee Table,Furniture,44,16,PrintWorld,601.13,2025-03-17,Brikama
+P0460,Refrigerator,Appliances,11,13,GambiaTech,604.43,2025-03-02,Farafenni
+P0461,Electric Kettle,Appliances,54,20,GambiaTech,205.75,2025-03-07,Banjul
+P0462,Sofa,Furniture,76,29,PrintWorld,490.0,2025-04-01,Banjul
+P0463,Pen,Stationery,66,29,SharpLog,159.03,2025-02-09,Brikama
+P0464,Notebook,Stationery,100,17,Nawec Supplies,314.85,2025-05-25,Serekund
+P0465,Toaster,Appliances,9,26,TechZone,789.64,2025-05-20,Bakau
+P0466,Coffee Table,Furniture,72,23,Fata Furnish,441.62,2025-03-14,Serekund
+P0467,Microwave,Appliances,2,28,TechZone,20.9,2025-04-13,Serekund
+P0468,HP Laptop,Electronics,50,26,Fata Furnish,506.57,2025-03-17,Farafenni
+P0469,Washing Machine,Appliances,89,22,TechZone,516.02,2025-06-09,Farafenni
+P0470,Bookshelf,Furniture,10,19,TechZone,413.93,2025-01-29,Serekund
+P0471,Sofa,Furniture,41,22,SharpLog,511.09,2025-01-16,Banjul
+P0472,Paper Ream,Stationery,93,17,TechZone,203.14,2025-04-13,Brikama
+P0473,Bluetooth Speaker,Electronics,78,29,TechZone,254.34,2025-05-15,Serekund
+P0474,HP Laptop,Electronics,90,14,PrintWorld,18.97,2025-05-04,Brikama
+P0475,Stapler,Stationery,66,18,GambiaTech,303.78,2025-02-03,Bakau
+P0476,HP Laptop,Electronics,42,23,Fata Furnish,423.84,2025-01-29,Bakau
+P0477,Bluetooth Speaker,Electronics,58,26,Fata Furnish,53.8,2025-04-29,Farafenni
+P0478,Bookshelf,Furniture,20,18,TechZone,716.47,2025-02-25,Banjul
+P0479,Sofa,Furniture,0,11,TechZone,203.2,2025-04-23,Brikama
+P0480,Paper Ream,Stationery,19,15,TechZone,446.76,2025-03-07,Brikama
+P0481,Bookshelf,Furniture,31,23,PrintWorld,262.75,2025-02-09,Banjul
+P0482,Notebook,Stationery,64,11,GambiaTech,186.32,2025-03-23,Farafenni
+P0483,Bluetooth Speaker,Electronics,8,24,Fata Furnish,621.09,2025-07-05,Bakau
+P0484,Notebook,Stationery,70,24,TechZone,301.45,2025-01-28,Bakau
+P0485,Stapler,Stationery,31,24,Fata Furnish,477.44,2025-07-04,Brikama
+P0486,Sofa,Furniture,97,17,GambiaTech,15.04,2025-03-03,Brikama
+P0487,Dell Monitor,Electronics,69,21,PrintWorld,673.26,2025-03-27,Banjul
+P0488,Notebook,Stationery,97,22,PrintWorld,584.5,2025-03-11,Banjul
+P0489,Sofa,Furniture,30,23,Nawec Supplies,769.34,2025-02-14,Serekund
+P0490,Notebook,Stationery,5,17,SharpLog,336.31,2025-04-10,Bakau
+P0491,Microwave,Appliances,74,13,SharpLog,115.48,2025-06-25,Brikama
+P0492,Canon Camera,Electronics,72,11,Nawec Supplies,533.33,2025-04-30,Serekund
+P0493,Bookshelf,Furniture,33,20,Nawec Supplies,563.57,2025-05-31,Bakau
+P0494,Paper Ream,Stationery,34,17,TechZone,755.41,2025-03-14,Serekund
+P0495,Dell Monitor,Electronics,13,15,Nawec Supplies,378.18,2025-05-13,Brikama
+P0496,Canon Camera,Electronics,45,16,Nawec Supplies,253.56,2025-06-20,Bakau
+P0497,HP Laptop,Electronics,20,19,PrintWorld,560.53,2025-05-21,Banjul
+P0498,Bookshelf,Furniture,18,12,PrintWorld,206.09,2025-04-27,Bakau
+P0499,Toaster,Appliances,6,19,Fata Furnish,657.87,2025-01-16,Serekund
+P0500,Bluetooth Speaker,Electronics,57,27,PrintWorld,444.6,2025-05-24,Banjul
+P0501,Microwave,Appliances,17,13,TechZone,58.72,2025-06-22,Serekund
+P0502,Desk,Furniture,51,21,PrintWorld,507.94,2025-05-02,Banjul
+P0503,Notebook,Stationery,2,12,GambiaTech,722.97,2025-03-14,Brikama
+P0504,Office Chair,Furniture,42,13,TechZone,754.4,2025-05-23,Banjul
+P0505,Sofa,Furniture,55,22,Nawec Supplies,33.29,2025-02-04,Brikama
+P0506,Bookshelf,Furniture,27,15,Fata Furnish,231.09,2025-07-04,Serekund
+P0507,Canon Camera,Electronics,79,29,GambiaTech,521.35,2025-02-10,Brikama
+P0508,Toaster,Appliances,61,11,TechZone,231.02,2025-03-07,Serekund
+P0509,Refrigerator,Appliances,82,26,GambiaTech,508.3,2025-02-06,Farafenni
+P0510,Bluetooth Speaker,Electronics,100,21,Nawec Supplies,440.17,2025-07-06,Brikama
+P0511,Stapler,Stationery,64,20,Nawec Supplies,223.64,2025-02-04,Banjul
+P0512,Stapler,Stationery,28,10,Fata Furnish,56.29,2025-06-08,Brikama
+P0513,Stapler,Stationery,29,15,TechZone,205.81,2025-05-02,Serekund
+P0514,Stapler,Stationery,94,11,GambiaTech,464.8,2025-02-14,Brikama
+P0515,Pen,Stationery,22,17,SharpLog,261.22,2025-03-08,Bakau
+P0516,iPhone,Electronics,72,28,GambiaTech,454.86,2025-03-10,Serekund
+P0517,Toaster,Appliances,39,15,Nawec Supplies,39.99,2025-05-12,Banjul
+P0518,Sofa,Furniture,28,10,SharpLog,387.61,2025-02-24,Bakau
+P0519,Desk,Furniture,43,15,Fata Furnish,57.05,2025-06-03,Serekund
+P0520,Office Chair,Furniture,67,21,TechZone,305.14,2025-03-22,Brikama
+P0521,iPhone,Electronics,38,20,GambiaTech,780.93,2025-02-23,Brikama
+P0522,Electric Kettle,Appliances,22,27,PrintWorld,712.78,2025-05-28,Farafenni
+P0523,Pen,Stationery,85,28,GambiaTech,308.92,2025-05-18,Bakau
+P0524,Desk,Furniture,93,10,PrintWorld,759.47,2025-06-29,Brikama
+P0525,Dell Monitor,Electronics,77,20,SharpLog,184.51,2025-03-07,Farafenni
+P0526,Bluetooth Speaker,Electronics,18,20,PrintWorld,71.47,2025-04-23,Bakau
+P0527,Pen,Stationery,81,12,PrintWorld,539.32,2025-04-19,Bakau
+P0528,Microwave,Appliances,33,16,GambiaTech,557.61,2025-03-04,Bakau
+P0529,Notebook,Stationery,92,10,TechZone,314.89,2025-07-09,Brikama
+P0530,Coffee Table,Furniture,63,22,Fata Furnish,441.36,2025-07-10,Banjul
+P0531,Toaster,Appliances,83,17,GambiaTech,366.52,2025-06-28,Banjul
+P0532,Notebook,Stationery,40,18,TechZone,68.62,2025-01-24,Serekund
+P0533,Refrigerator,Appliances,93,12,SharpLog,754.05,2025-02-01,Banjul
+P0534,Stapler,Stationery,78,25,PrintWorld,34.48,2025-05-18,Serekund
+P0535,Refrigerator,Appliances,6,13,Fata Furnish,172.38,2025-04-07,Serekund
+P0536,Toaster,Appliances,92,27,Fata Furnish,531.87,2025-06-25,Bakau
+P0537,Office Chair,Furniture,6,22,SharpLog,444.23,2025-03-09,Brikama
+P0538,Office Chair,Furniture,46,10,Nawec Supplies,79.23,2025-01-23,Farafenni
+P0539,Refrigerator,Appliances,12,10,GambiaTech,144.96,2025-01-15,Bakau
+P0540,Bluetooth Speaker,Electronics,14,19,Nawec Supplies,382.05,2025-03-20,Bakau
+P0541,Canon Camera,Electronics,49,15,Fata Furnish,709.54,2025-06-13,Bakau
+P0542,Coffee Table,Furniture,5,18,Nawec Supplies,377.4,2025-02-09,Serekund
+P0543,Stapler,Stationery,7,14,PrintWorld,537.3,2025-05-18,Banjul
+P0544,Stapler,Stationery,52,28,GambiaTech,447.35,2025-03-06,Brikama
+P0545,Toaster,Appliances,87,25,SharpLog,706.51,2025-02-15,Brikama
+P0546,Notebook,Stationery,50,11,SharpLog,461.26,2025-06-07,Farafenni
+P0547,Office Chair,Furniture,96,24,GambiaTech,759.76,2025-04-10,Serekund
+P0548,Desk,Furniture,16,11,Nawec Supplies,71.91,2025-05-02,Brikama
+P0549,Desk,Furniture,76,18,Fata Furnish,729.54,2025-06-01,Banjul
+P0550,Bluetooth Speaker,Electronics,71,22,SharpLog,267.64,2025-04-08,Bakau
+P0551,Microwave,Appliances,100,29,SharpLog,422.82,2025-05-03,Brikama
+P0552,Bluetooth Speaker,Electronics,19,14,SharpLog,474.47,2025-01-16,Banjul
+P0553,Canon Camera,Electronics,99,13,Fata Furnish,695.31,2025-02-05,Bakau
+P0554,Electric Kettle,Appliances,49,30,Nawec Supplies,461.9,2025-01-29,Brikama
+P0555,Dell Monitor,Electronics,35,22,GambiaTech,498.41,2025-07-05,Brikama
+P0556,Bluetooth Speaker,Electronics,42,17,TechZone,599.14,2025-05-29,Bakau
+P0557,Notebook,Stationery,43,19,Fata Furnish,231.47,2025-07-09,Brikama
+P0558,Dell Monitor,Electronics,17,19,PrintWorld,360.06,2025-02-12,Bakau
+P0559,Paper Ream,Stationery,77,30,TechZone,158.47,2025-04-30,Serekund
+P0560,Washing Machine,Appliances,97,26,Fata Furnish,658.6,2025-01-21,Farafenni
+P0561,Office Chair,Furniture,39,26,Nawec Supplies,117.16,2025-06-26,Farafenni
+P0562,Dell Monitor,Electronics,24,16,TechZone,207.1,2025-03-27,Brikama
+P0563,iPhone,Electronics,90,16,Fata Furnish,301.0,2025-05-08,Brikama
+P0564,Microwave,Appliances,87,10,GambiaTech,304.25,2025-05-02,Farafenni
+P0565,Refrigerator,Appliances,60,28,SharpLog,286.31,2025-02-12,Serekund
+P0566,Notebook,Stationery,36,10,Nawec Supplies,49.22,2025-04-08,Farafenni
+P0567,Desk,Furniture,82,17,PrintWorld,173.32,2025-02-08,Brikama
+P0568,HP Laptop,Electronics,60,14,PrintWorld,146.83,2025-01-23,Banjul
+P0569,Bookshelf,Furniture,77,19,PrintWorld,773.95,2025-03-15,Bakau
+P0570,Washing Machine,Appliances,44,24,Fata Furnish,182.39,2025-03-26,Bakau
+P0571,Toaster,Appliances,13,10,SharpLog,799.55,2025-07-08,Bakau
+P0572,Highlighter,Stationery,87,13,Nawec Supplies,60.43,2025-06-18,Bakau
+P0573,Highlighter,Stationery,33,30,PrintWorld,762.23,2025-07-01,Bakau
+P0574,Desk,Furniture,66,17,TechZone,646.29,2025-01-22,Farafenni
+P0575,Electric Kettle,Appliances,87,14,PrintWorld,30.11,2025-07-08,Brikama
+P0576,Highlighter,Stationery,53,22,Nawec Supplies,592.02,2025-03-25,Farafenni
+P0577,Bookshelf,Furniture,92,17,PrintWorld,432.36,2025-02-24,Brikama
+P0578,Stapler,Stationery,38,15,PrintWorld,702.43,2025-05-27,Serekund
+P0579,Notebook,Stationery,60,14,PrintWorld,214.33,2025-03-04,Farafenni
+P0580,Bookshelf,Furniture,83,12,GambiaTech,290.67,2025-05-24,Bakau
+P0581,Electric Kettle,Appliances,47,18,SharpLog,242.3,2025-02-03,Banjul
+P0582,Microwave,Appliances,81,28,SharpLog,756.0,2025-03-24,Banjul
+P0583,Refrigerator,Appliances,64,13,PrintWorld,311.52,2025-06-15,Bakau
+P0584,Microwave,Appliances,19,14,GambiaTech,280.71,2025-05-03,Farafenni
+P0585,Refrigerator,Appliances,40,15,TechZone,395.19,2025-07-05,Serekund
+P0586,Notebook,Stationery,0,24,Fata Furnish,175.41,2025-07-03,Serekund
+P0587,Coffee Table,Furniture,100,12,GambiaTech,495.44,2025-04-03,Brikama
+P0588,Washing Machine,Appliances,61,22,TechZone,39.8,2025-05-15,Serekund
+P0589,Notebook,Stationery,41,26,GambiaTech,24.15,2025-06-09,Banjul
+P0590,Desk,Furniture,88,21,Fata Furnish,111.86,2025-02-14,Brikama
+P0591,Pen,Stationery,8,11,Fata Furnish,759.29,2025-07-13,Brikama
+P0592,Paper Ream,Stationery,87,14,Fata Furnish,796.95,2025-03-01,Brikama
+P0593,Pen,Stationery,21,22,TechZone,190.45,2025-07-01,Serekund
+P0594,Office Chair,Furniture,75,26,GambiaTech,107.3,2025-02-15,Banjul
+P0595,Electric Kettle,Appliances,98,27,SharpLog,48.38,2025-06-19,Banjul
+P0596,HP Laptop,Electronics,6,13,Nawec Supplies,361.01,2025-06-21,Banjul
+P0597,Paper Ream,Stationery,89,14,GambiaTech,559.2,2025-02-18,Banjul
+P0598,Paper Ream,Stationery,84,13,PrintWorld,421.04,2025-07-05,Farafenni
+P0599,Coffee Table,Furniture,13,26,PrintWorld,497.98,2025-04-05,Bakau
+P0600,HP Laptop,Electronics,63,16,SharpLog,167.8,2025-01-19,Bakau
